@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <windows.h>
-int main(){
+int main()
+{
 	char c;
 	int letters=0,space=0,digit=0,other=0;
 	printf("ÇëÊäÈëÒ»ĞĞ×Ö·û£º\n");

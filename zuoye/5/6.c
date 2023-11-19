@@ -5,7 +5,8 @@ int main()
     long sum,p,i;
     sum=0;
     p=1;
-    for(i=1;i<=20;i++){
+    for(i=1;i<=20;i++)
+    {
         p*=i;
         sum+=p;
     }
