@@ -1,2 +1,2 @@
-# heifan
-hello world
+# C语言
+该仓库包含了平时的作业和实验报告
