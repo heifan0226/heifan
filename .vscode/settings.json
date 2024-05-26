@@ -1,3 +1,6 @@
 {
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "neko.persona": "neko",
+    "neko.model": "mimo-v2.6-flash-free",
+    "neko.provider": "openai"
 }
